@@ -243,8 +243,6 @@ export default function App() {
         <div className="max-w-7xl mx-auto px-4 flex items-center justify-center gap-2">
           <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse" />
           <span>Chatbox 2.0 Local-Only AI Engine</span>
-          <span>•</span>
-          <span>3,725 Cặp Từ Vựng Chuẩn CEFR A1–B2</span>
         </div>
       </footer>
 
